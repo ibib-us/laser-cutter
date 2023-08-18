@@ -17,6 +17,7 @@ Information related to the laser cutter at IBiB
 
 - vector cutting: 50 speed, 80 power.
 - raster engraving: 100 speed, 80 power.
+- Note: 3.0 mm thick was not cut through at 30 speed 80 power, but was close enough to be snapped. Might need to increase power to 90. Also need to mind the other with this thickness.
 
 # Tips and tricks
 
