@@ -13,11 +13,18 @@ Information related to the laser cutter at IBiB
 - vector cutting: 100 speed, 30 power
 - raster engraving: 100 speed, 29 power (can probably go higher)
 
+## Corrogated cardboard (4 mm thick)
+
+- vector cutting: speed 20 power 20 (probably needs a bit higher)
+- vector engraving: speed 100 power 20
+
+
 ## acrylic (1.5 mm thick)
 
-- vector cutting: 50 speed, 80 power.
 - raster engraving: 100 speed, 80 power.
-- Note: 3.0 mm thick was not cut through at 30 speed 80 power, but was close enough to be snapped. Might need to increase power to 90. Also need to mind the other with this thickness.
+- 1.5 mm (unknown if cast or extruded) cutting: 50 speed, 80 power.
+- 2.85 mm cast cutting: 80 speed, 90 power, 4 passes.
+    - Extra passes at high speed appears to leave a cleaner surface than slower speeds with 1 pass.
 
 # Tips and tricks
 
