@@ -23,8 +23,8 @@ Information related to the laser cutter at IBiB
 
 - raster engraving: 100 speed, 80 power.
 - 1.5 mm (unknown if cast or extruded) cutting: 50 speed, 80 power.
-- 2.85 mm cast cutting: 80 speed, 90 power, 4 passes.
-    - Extra passes at high speed appears to leave a cleaner surface than slower speeds with 1 pass.
+- 2.85 mm cast cutting: 20 speed, 80 power
+    - Had problems in the past; however with 2 inch focal length lens, these settings seem good.
 
 # Tips and tricks
 
